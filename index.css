@@ -570,3 +570,10 @@ body {
     display: none;
   }
 }
+#ytlink{
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+  font-size:xx-large;
+  text-shadow: 2px 2px 4px red;
+}
